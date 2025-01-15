@@ -33,7 +33,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher).
 - [Spring PetClient Sample Application](https://github.com/spring-projects/spring-petclinic) - The Spring PetClinic is an open-source sample application developed to demonstrate the database-oriented capabilities of Spring Boot, Spring MVC, and the Spring Data Framework. It’s based on this Spring stack and built with Maven.  [Blog Post](https://www.docker.com/blog/containerizing-a-legendary-petclinic-app-built-with-spring-boot/)  
 
 ## Complex Apps (4+ independent services/apps in solution)
-Bl
+
 - [Google Online Boutique](https://github.com/GoogleCloudPlatform/microservices-demo) - A cloud-native microservices demo app for Google Cloud Platform (GCP). Has Dockerfiles, Kubernetes manifests, and Helm charts.
 - [Sock Shop](https://github.com/microservices-demo/microservices-demo) - A microservices demo application that was maintained by Weaveworks. It's now deprecated, but should still work. Has Docker Compose and Kubernetes example YAML. Also has logging and monitoring YAML.
 - [Voting App](https://github.com/dockersamples/example-voting-app) - A distributed application that runs across multiple Docker containers. Has Docker Compose and Kubernetes example YAML.
